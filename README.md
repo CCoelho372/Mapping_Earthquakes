@@ -20,6 +20,6 @@ Figure 3: Dark View
 
 ![alt text](https://github.com/CCoelho372/Mapping_Earthquakes/blob/main/dark_earthquakes_major.PNG)
 
-Figure 3: Dark View - Major Earthquakes
+Figure 4: Dark View - Major Earthquakes
 
 
